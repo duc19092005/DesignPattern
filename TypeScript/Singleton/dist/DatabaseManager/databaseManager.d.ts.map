@@ -1,0 +1,1 @@
+{"version":3,"file":"databaseManager.d.ts","sourceRoot":"","sources":["../../DatabaseManager/databaseManager.ts"],"names":[],"mappings":"AAEA,qBAAa,eAAe;IAGxB,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAiB;IAExC,OAAO,CAAC,gBAAgB,CAAsB;IAE9C,OAAO;WAOO,WAAW,IAAI,eAAe;IAOrC,QAAQ,CAAC,KAAK,EAAE,MAAM;CAKhC"}

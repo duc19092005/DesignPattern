@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const databaseManager_1 = require("./Singleton/DatabaseManager/databaseManager");
+const databaseManager_1 = require("./DatabaseManager/databaseManager");
 const getInstance = databaseManager_1.databaseManager.getInstance();
 getInstance.runQuery("SELECT * FROM users");
 const getInstance2 = databaseManager_1.databaseManager.getInstance();

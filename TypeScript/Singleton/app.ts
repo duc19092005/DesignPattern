@@ -1,4 +1,4 @@
-import { databaseManager } from "./Singleton/DatabaseManager/databaseManager";
+import { databaseManager } from "./DatabaseManager/databaseManager";
 
 const getInstance = databaseManager.getInstance();
 
