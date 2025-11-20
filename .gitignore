@@ -1,0 +1,91 @@
+###########################
+## 1. Node.js & TypeScript
+###########################
+
+# Thư mục chứa các gói phụ thuộc (dependencies)
+node_modules/
+/jspm_packages/
+
+# Thư mục chứa mã nguồn đã biên dịch (TypeScript/Babel)
+/dist
+/build
+/out
+/es
+/esm
+
+# Tệp tin logs và tạm thời
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.stylelintcache
+
+# Tệp tin cấu hình môi trường (chứa thông tin nhạy cảm)
+.env
+.env.*
+.local
+
+# Tệp tin kiểm thử và báo cáo
+/coverage
+/test-reports
+
+###########################
+## 2. C# / .NET / Visual Studio
+###########################
+
+# Thư mục tạm thời và đầu ra của biên dịch
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Thư mục của Visual Studio/Rider
+.vs/
+*.suo
+*.user
+*.useros
+*.bak
+
+# Các gói NuGet
+*.nupkg
+# Thư mục phục hồi gói NuGet
+packages/
+
+# Thư mục của project Unity (Nếu có)
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Logs/
+
+# Các file Database cục bộ (ví dụ: SQL Server LocalDB)
+*.mdf
+*.ldf
+*.sdf
+*.vshost.exe
+*.vshost.exe.config
+
+# Các file cấu hình người dùng cục bộ
+*.csproj.user
+*.sln.docstates
+
+# File báo cáo Code Analysis
+CodeAnalysisLog.xml
+
+###########################
+## 3. Chung (Common)
+###########################
+
+# Thư mục làm việc của hệ điều hành (ví dụ: macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Tệp tin backup và chỉnh sửa tạm thời
+*~
+#*#
+
+# Tệp tin nén
+*.zip
+*.rar
+*.7z

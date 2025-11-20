@@ -1,0 +1,1 @@
+{"version":3,"file":"dbConnection.d.ts","sourceRoot":"","sources":["../../Ultils/dbConnection.ts"],"names":[],"mappings":"AAAA,qBAAa,kBAAkB;IAC3B,OAAO,CAAC,aAAa,CAAU;gBAEnB,aAAa,EAAG,MAAM;IAI3B,QAAQ,CAAC,KAAK,EAAE,MAAM;IAItB,OAAO;IAIP,UAAU;CAGpB"}
